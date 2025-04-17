@@ -2,6 +2,15 @@
 
 This is a simple AI/ML-based **Face Recognition System** built with Python 3.9.5, OpenCV, and the `face_recognition` library (built on top of dlib’s deep learning model). It identifies and labels faces in test images based on trained face encodings.
 
+---
+
+## 📸 Demo
+
+![AI-Face-Recognition-SystemAIML](https://github.com/user-attachments/assets/800ac429-efd1-43da-9234-a1f2106efd88)
+
+
+---
+
 ## 🧠 Tech Stack
 
 - **Language**: Python 3.9.5  
