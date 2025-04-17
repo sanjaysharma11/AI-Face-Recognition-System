@@ -38,4 +38,4 @@ Ensure you're using **Python 3.9.5**.
 python --version
 # Output should be: Python 3.9.5
 
-
+pip install dlib-19.22.1-cp39-cp39-win_amd64.whl and pip install face_recognition and then pip install numpy==1.26.4  
