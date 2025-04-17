@@ -23,5 +23,19 @@ This is a simple AI/ML-based **Face Recognition System** built with Python 3.9.5
 
 ---
 
-## 🗂 Project Structure
+
+> 📸 **Note**: File names in `train/` must be in the format `name.jpg`, `name.png`, etc. The filename (before extension) will be used as the person's label.
+
+---
+
+## 📦 Installation Guide
+
+### 1. 🐍 Python Version
+
+Ensure you're using **Python 3.9.5**.
+
+```bash
+python --version
+# Output should be: Python 3.9.5
+
 
